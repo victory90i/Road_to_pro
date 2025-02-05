@@ -1,6 +1,9 @@
 
 # SEED ROAD TO PRO CODER
 
+![image_](https://github.com/user-attachments/assets/e4cb0ed6-bc96-43e2-a087-412a77cb4196)
+
+
 Welcome to the **SEED ROAD TO PRO CODER** repository! This is your gateway to mastering the art of coding—not just by cramming theory but by actively engaging in 50 challenging LeetCode problems. Each day, you’ll find a new problem complete with clear instructions and a dedicated space for your solution.
 
 ---
