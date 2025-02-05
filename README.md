@@ -1,4 +1,4 @@
-```markdown
+
 # SEED ROAD TO PRO CODER
 
 Welcome to the **SEED ROAD TO PRO CODER** repository! This is your gateway to mastering the art of coding—not just by cramming theory but by actively engaging in 50 challenging LeetCode problems. Each day, you’ll find a new problem complete with clear instructions and a dedicated space for your solution.
@@ -82,6 +82,4 @@ Welcome to the **SEED ROAD TO PRO CODER** repository! This is your gateway to ma
 - Embrace each challenge, learn from every mistake, and remember: _Your consistency today builds your success tomorrow!_
 
 Happy Coding and Welcome to the Journey of Becoming a Pro Coder!
-```
 
-This README provides a comprehensive, motivating, and directive guide for students to follow the daily coding challenges, ensuring they adopt best practices and actively engage with the learning process. Enjoy your journey on the SEED ROAD TO PRO CODER!
